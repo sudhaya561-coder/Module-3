@@ -14,7 +14,8 @@ Add code here
 items=[153,147,124,102]
 print(sum(items))
 ## Output
-<img width="911" height="247" alt="Screenshot 2025-10-22 210921" src="https://github.com/user-attachments/assets/da57b9b3-8be6-4027-987f-512edd323ca2" />
+<img width="498" height="209" alt="Screenshot 2025-10-22 211557" src="https://github.com/user-attachments/assets/93c19017-11a6-4bd9-afb2-208956cd51de" />
+
 
 ## Result
 thus,the code runs successfully.
