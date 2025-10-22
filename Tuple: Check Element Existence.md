@@ -11,7 +11,11 @@ To write a Python program that checks if the element `'n'` and the element `8` e
 
 ## 🧾 Program
 Add code here
-
+tuplex = input()
+print("n" in tuplex)
+print("8" in tuplex)
 ## Output
+<img width="886" height="264" alt="Screenshot 2025-10-22 212632" src="https://github.com/user-attachments/assets/d8ad9185-52bf-4e57-ad19-e7a64e8c182d" />
 
 ## Result
+thus,the code runs successfully.
